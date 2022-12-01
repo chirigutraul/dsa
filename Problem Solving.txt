@@ -1,0 +1,37 @@
+Overall strategy for problem solving : 
+  1. Understand the problem
+
+  2. Analyse concrete examples
+
+  3. Divide et impera
+
+  4. Solve the problem
+
+  5. Simplify the answer
+
+  6. Eventually refactor.
+
+I. Understading the problem
+  - Restate the problem in your own words;
+
+  - Think about the inputs of the problem;
+
+  - Think about the outputs of the problem;
+
+  - Do I have enough information to solve the problem?
+
+  - How to label important pieces of information.
+
+II. Analyse concrete examples
+  - Start with easy examples and analyse the output/input
+
+  - Move on to more complex examples, do the same
+
+  - Move on to exceptions.
+
+III. Divide et impera
+  - Divide the problem into many small problems
+  
+  - Start solving from the simplest problem 
+
+  - Work my way up to the biggest problem
